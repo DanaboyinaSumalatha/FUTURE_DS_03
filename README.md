@@ -55,6 +55,7 @@ The dashboard was built using Power BI and Python for data cleaning and preproce
 - Dashboard Design
 - Business Insight Generation
 
-<img width="1131" height="638" alt="Screenshot 2026-05-22 131716" src="https://github.com/user-attachments/assets/38280b6c-0b6e-400e-90cb-ec6c947ea3c5" />
+<img width="1290" height="728" alt="Screenshot 2026-05-22 122350" src="https://github.com/user-attachments/assets/ada13e6c-6b9b-4a3e-b7f7-391dd9066ca1" />
+
 
 
